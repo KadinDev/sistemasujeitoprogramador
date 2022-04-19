@@ -1,0 +1,17 @@
+Primeiramente limpa o projeto antes de iniciar, limpa a pasta
+public e src.
+limpa o index.html no public também.
+em src deixa o App, index, e setupTests
+
+----------------------------------------------------------------
+1 - Criado projeto no firebase. 
+( DB com Firestore Database )
+agora instalei o yarn add firebase@^8.8.1
+
+
+-------------------------------------
+yarn add react-router-dom@5.x
+
+yarn add react-toastify
+yarn add react-icons
+yarn add date-fns
